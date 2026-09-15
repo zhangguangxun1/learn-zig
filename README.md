@@ -1,0 +1,2 @@
+# learn-zig
+Learn Zig
